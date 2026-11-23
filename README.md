@@ -61,26 +61,17 @@ My experience spans **full-stack development, enterprise blockchain solutions, m
 ![Gemini](https://img.shields.io/badge/Gemini_API-751727?style=flat-square&logo=googlegemini&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-991B1B?style=flat-square)
 
+
 ### Distributed Systems & Blockchain
 
-<table>
-<tr>
-<td align="center" width="180">
-<a href="https://github.com/hyperledger/fabric">
-<img src="https://github.com/hyperledger.png" width="58" height="58" alt="Hyperledger Fabric GitHub organization"/>
-<br>
-<strong>Hyperledger Fabric</strong>
-</a>
-</td>
-<td align="center" width="180">
-<a href="https://github.com/hyperledger-firefly/firefly">
-<img src="https://github.com/hyperledger-firefly.png" width="58" height="58" alt="Hyperledger FireFly GitHub organization"/>
-<br>
-<strong>Hyperledger FireFly</strong>
-</a>
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=go&theme=dark" height="48" alt="Go" />
+  <img src="./assets/hyperledger-fabric.png" height="48" alt="Hyperledger Fabric" />
+  <img src="./assets/hyperledger-firefly.png" height="48" alt="Hyperledger FireFly" />
+</p>
+
+`Hyperledger Fabric` · `Hyperledger FireFly` · `Microservices` · `Go Chaincode` · `Drools`
+
 
 ![Microservices](https://img.shields.io/badge/Microservices-751727?style=flat-square)
 ![Go Chaincode](https://img.shields.io/badge/Go_Chaincode-4A0E1B?style=flat-square&logo=go&logoColor=white)
