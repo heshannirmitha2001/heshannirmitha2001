@@ -118,24 +118,5 @@ Exploring how controlled audio augmentation strategies can improve the generaliz
 
 </div>
 
----
 
-## Let's Connect
 
-Open to opportunities and collaborations in **Software Engineering, Backend Development, AI Engineering, and Distributed Systems**.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/heshan-nirmitha-20622b305/">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:nirmithadharmakeerthi@gmail.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/heshannirmitha2001">GitHub</a>
-
-<br><br>
-
-<sub>Designed with simplicity. Driven by engineering.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D10,45:4A0E1B,100:991B1B&height=90&section=footer" alt="Footer"/>
-
-</div>
