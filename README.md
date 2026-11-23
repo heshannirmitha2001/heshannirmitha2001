@@ -1,68 +1,129 @@
-<h1 align="center">Hi 👋, I'm Heshan Nirmitha</h1>
-<h3 align="center">Final-Year CSE Undergraduate @ University of Moratuwa | Full-Stack, AI & Distributed Systems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/heshan-nirmitha-20622b305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nirmithadharmakeerthi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=heshannirmitha2001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:15345C,100:2563EB&height=170&section=header&text=Heshan%20Nirmitha&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Distributed%20Systems&descAlignY=60&descSize=16" alt="Heshan Nirmitha"/>
+
+### Final-Year Computer Science & Engineering Undergraduate
+
+**University of Moratuwa, Sri Lanka**
+
+Building scalable systems. Engineering intelligent solutions.
+
+<br>
+
+<a href="https://www.linkedin.com/in/heshan-nirmitha-20622b305/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:nirmithadharmakeerthi@gmail.com">
+<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/heshannirmitha2001">
+<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br>
+
+## About Me
+
+I'm **Heshan Nirmitha**, a final-year Computer Science & Engineering undergraduate at the **University of Moratuwa**, with a strong interest in software architecture, intelligent systems, and modern backend engineering.
+
+My experience spans full-stack development, enterprise blockchain solutions, microservices, and AI-powered applications.
+
+- **Professional Experience** — Former Software Engineering & Blockchain Intern, contributing to enterprise consortium networks, smart contracts, microservices, and business rule automation.
+- **Research** — Currently investigating cross-domain generalization in audio deepfake detection using deep learning and controlled data augmentation.
+- **Engineering Interests** — Scalable backend systems, distributed architectures, Agentic AI, RAG pipelines, and enterprise software.
+- **Current Direction** — Exploring the intersection of software engineering and AI to build reliable, intelligent systems.
+
+<br>
+
+## Technology Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,java&theme=dark" alt="Programming languages"/>
 </p>
 
----
+### Frontend & Backend
 
-### 👨‍💻 About Me
-- 🎓 Final-year **Computer Science & Engineering** undergraduate at the **University of Moratuwa**.
-- 💼 Former **Software Engineering & Blockchain Intern** — engineered enterprise consortium networks, business rule engines, and microservices.
-- 🔬 Currently researching **Cross-Domain Generalization of Audio Deepfake Detection** for my Final Year Project.
-- 💬 Ask me about **Full-Stack Architecture, Agentic AI/RAG Pipelines, Microservices, and Hyperledger Fabric**.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,spring&theme=dark" alt="Web technologies"/>
+</p>
 
----
+### AI & Machine Learning
 
-### 🚀 Featured Projects & Key Contributions
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,python,anaconda&theme=dark" alt="AI and machine learning tools"/>
+</p>
 
-> *Many of my core projects were built collaboratively in team/organization repositories. Below is a breakdown of my architectural ownership and contributions:*
+`LangGraph` · `LangChain` · `RAG` · `Gemini API` · `ChromaDB` · `Deep Learning`
 
-#### 1. 🏨 Enterprise Hotel Loyalty Consortium & Rule Engine *(Internship)*
-- **Tech Stack:** `Hyperledger Fabric` `Hyperledger FireFly` `Go` `Spring Boot` `Drools` `Docker`
-- **My Contributions:** Architected multi-channel consortium smart contracts (Go chaincode) and built a multi-tenant Drools business rule engine for automated partner negotiations.
+### Distributed Systems & Blockchain
 
-#### 2. 🤖 AI Inventory Intelligence Chatbot *(Team Project)* — [Repo Link](#)
-- **Tech Stack:** `LangGraph` `Gemini API` `RAG` `ChromaDB` `Node.js` `React` `PostgreSQL`
-- **My Contributions:** Designed the agentic tool-calling workflow, vector retrieval pipeline, and backend API integration for real-time inventory analytics.
+<p>
+<img src="https://img.shields.io/badge/Hyperledger_Fabric-252B37?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger Fabric"/>
+<img src="https://img.shields.io/badge/Hyperledger_FireFly-26344A?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger FireFly"/>
+<img src="https://img.shields.io/badge/Microservices-174A75?style=for-the-badge" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Drools-334155?style=for-the-badge" alt="Drools"/>
+</p>
 
-#### 3. 🎓 Microservices Learning Platform *(Team Project)* — [Repo Link](#)
-- **Tech Stack:** `Node.js` `Express` `TypeScript` `PostgreSQL` `Stripe API` `Zoom API`
-- **My Contributions:** Engineered the User, Scheduling (Zoom integration), and Payment (Stripe) microservices along with frontend resource management.
+### Databases & Infrastructure
 
-#### 4. 🎙️ Audio Deepfake Detection *(Final Year Research)*
-- **Tech Stack:** `Python` `PyTorch` `Audio Signal Processing`
-- **Focus:** Improving cross-domain model generalization through controlled data augmentation pipelines.
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,postman&theme=dark" alt="Databases and infrastructure"/>
+</p>
 
----
+<br>
 
-### 🛠️ Tech Stack
+## Areas of Interest
 
-**Languages:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+| Software Engineering | Artificial Intelligence | Distributed Systems |
+|:---|:---|:---|
+| Backend Architecture | Agentic AI | Microservices |
+| Full-Stack Applications | RAG Pipelines | Enterprise Blockchain |
+| API Design & Integration | Deep Learning | Scalable Architectures |
 
-**Frontend & Backend:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+<br>
 
-**AI, Blockchain & Databases:**
-![LangChain](https://img.shields.io/badge/LangGraph_/_RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric_&_FireFly-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+## Research Focus
+
+**Cross-Domain Generalization of Audio Deepfake Detection through Controlled Data Augmentation**
+
+Exploring how controlled audio augmentation strategies can improve the generalization of deepfake detection models across unseen datasets, voice synthesis methods, and real-world recording conditions.
+
+`Audio Deepfake Detection` · `PyTorch` · `Audio Signal Processing` · `Cross-Domain Evaluation`
+
+<br>
+
+## GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=heshannirmitha2001&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=94A3B8&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshannirmitha2001&layout=compact&title_color=58A6FF&text_color=94A3B8&bg_color=0D1117&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+<br>
+
+## Let's Connect
+
+Open to opportunities and collaborations in **Software Engineering, Backend Development, AI Engineering, and Distributed Systems**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/heshan-nirmitha-20622b305/">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:nirmithadharmakeerthi@gmail.com">Email</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/heshannirmitha2001">GitHub</a>
+
+<br><br>
+
+<sub>Designed with simplicity. Driven by engineering.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:15345C,100:2563EB&height=90&section=footer" alt="Footer"/>
+
+</div>
