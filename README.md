@@ -1,64 +1,68 @@
 <h1 align="center">Hi 👋, I'm Heshan Nirmitha</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Full-stack Enthusiast</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=heshannirmitha2001&label=Profile%20views&color=0e75b6&style=flat" alt="heshannirmitha2001" /> </p>
-
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #333;">🏆 GitHub Achievements</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=heshannirmitha2001&theme=onedark&no-bg=true&no-frame=true&column=4" alt="GitHub Trophy" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning *React, Node.js, AI modules*
-
-- 💬 Ask me about *JavaScript, Python*
-
-- 📫 How to reach me *nirmithadharmakeerthi@gmail.com*
-
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #333;">🌍 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/heshan-nirmitha-20622b305/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heshan-nirmitha" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/heshan.nirmitha.7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heshan.nirmitha.7" height="30" width="40" />
-  </a>
-</p>
+<h3 align="center">Final-Year CSE Undergraduate @ University of Moratuwa | Full-Stack, AI & Distributed Systems</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshannirmitha2001&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshannirmitha2001&theme=react&hide_border=true" alt="GitHub Contribution Graph" />
+  <a href="https://www.linkedin.com/in/heshan-nirmitha-20622b305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nirmithadharmakeerthi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=heshannirmitha2001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
+### 👨‍💻 About Me
+- 🎓 Final-year **Computer Science & Engineering** undergraduate at the **University of Moratuwa**.
+- 💼 Former **Software Engineering & Blockchain Intern** — engineered enterprise consortium networks, business rule engines, and microservices.
+- 🔬 Currently researching **Cross-Domain Generalization of Audio Deepfake Detection** for my Final Year Project.
+- 💬 Ask me about **Full-Stack Architecture, Agentic AI/RAG Pipelines, Microservices, and Hyperledger Fabric**.
+
+---
+
+### 🚀 Featured Projects & Key Contributions
+
+> *Many of my core projects were built collaboratively in team/organization repositories. Below is a breakdown of my architectural ownership and contributions:*
+
+#### 1. 🏨 Enterprise Hotel Loyalty Consortium & Rule Engine *(Internship)*
+- **Tech Stack:** `Hyperledger Fabric` `Hyperledger FireFly` `Go` `Spring Boot` `Drools` `Docker`
+- **My Contributions:** Architected multi-channel consortium smart contracts (Go chaincode) and built a multi-tenant Drools business rule engine for automated partner negotiations.
+
+#### 2. 🤖 AI Inventory Intelligence Chatbot *(Team Project)* — [Repo Link](#)
+- **Tech Stack:** `LangGraph` `Gemini API` `RAG` `ChromaDB` `Node.js` `React` `PostgreSQL`
+- **My Contributions:** Designed the agentic tool-calling workflow, vector retrieval pipeline, and backend API integration for real-time inventory analytics.
+
+#### 3. 🎓 Microservices Learning Platform *(Team Project)* — [Repo Link](#)
+- **Tech Stack:** `Node.js` `Express` `TypeScript` `PostgreSQL` `Stripe API` `Zoom API`
+- **My Contributions:** Engineered the User, Scheduling (Zoom integration), and Payment (Stripe) microservices along with frontend resource management.
+
+#### 4. 🎙️ Audio Deepfake Detection *(Final Year Research)*
+- **Tech Stack:** `Python` `PyTorch` `Audio Signal Processing`
+- **Focus:** Improving cross-domain model generalization through controlled data augmentation pipelines.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend & Backend:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+**AI, Blockchain & Databases:**
+![LangChain](https://img.shields.io/badge/LangGraph_/_RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric_&_FireFly-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
