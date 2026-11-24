@@ -24,14 +24,14 @@ Building scalable systems. Engineering intelligent solutions.
 
 ## About Me
 
-I'm **Heshan Nirmitha**, a final-year Computer Science & Engineering undergraduate at the **University of Moratuwa**, with a strong interest in software architecture, intelligent systems, and backend engineering.
+I'm **Heshan Nirmitha**, a final-year Computer Science & Engineering undergraduate at the **University of Moratuwa**, with a strong interest in software architecture, intelligent systems, backend engineering and distributed systems.
 
 My experience spans **full-stack development, enterprise blockchain solutions, microservices, and AI-powered applications**.
 
-- **Professional Experience** — Former Software Engineering & Blockchain Intern, contributing to enterprise consortium networks, smart contracts, microservices, and business rule automation.
-- **Research** — Investigating cross-domain generalization in audio deepfake detection through controlled data augmentation.
-- **Engineering Interests** — Scalable backend systems, distributed architectures, Agentic AI, RAG pipelines, and enterprise software.
-- **Current Direction** — Exploring the intersection of software engineering and AI to build reliable, intelligent applications.
+- **Professional Experience** - Former Software Engineering & Blockchain Intern at Fetchseed (Pvt) Ltd, contributing to enterprise consortium networks, smart contracts, microservices, and business rule automation.
+- **Research** - Investigating cross-domain generalization in audio deepfake detection through controlled data augmentation.
+- **Engineering Interests** - Scalable backend systems, distributed architectures, Agentic AI, RAG pipelines, and enterprise software.
+- **Current Direction** - Exploring the intersection of software engineering and AI to build reliable, intelligent applications.
 
 ---
 
