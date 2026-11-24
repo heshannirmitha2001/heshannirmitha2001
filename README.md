@@ -85,12 +85,11 @@ My experience spans **full-stack development, enterprise blockchain solutions, m
 ---
 
 ## Areas of Interest
-
 | Software Engineering | Artificial Intelligence | Distributed Systems |
-|:---|:---|:---|
-| Backend Architecture | Agentic AI | Microservices |
-| Full-Stack Applications | RAG Pipelines | Enterprise Blockchain |
-| API Design & Integration | Deep Learning | Scalable Architectures |
+|:---:|:---:|:---:|
+| Full-Stack Engineering | Agentic AI | Enterprise Blockchain |
+| Backend & APIs | RAG Pipelines | Microservices |
+| System Design | Deep Learning | Distributed Consensus |
 
 ---
 
