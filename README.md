@@ -65,7 +65,6 @@ My experience spans **full-stack development, enterprise blockchain solutions, m
 ### Distributed Systems & Blockchain
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go&theme=dark" height="48" alt="Go" />
   <img src="./assets/hyperledger-fabric.png" height="48" alt="Hyperledger Fabric" />
   <img src="./assets/hyperledger-firefly.png" height="48" alt="Hyperledger FireFly" />
 </p>
